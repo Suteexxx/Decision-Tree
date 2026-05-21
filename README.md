@@ -6,7 +6,7 @@ The model predicts the species of iris flowers based on sepal and petal measurem
 
 ---
 
-## Dataset
+## Datasets
 The Iris dataset contains:
 
 - 150 samples
